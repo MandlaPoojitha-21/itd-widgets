@@ -1,9 +1,8 @@
 {
   "version": "1.0.0",
-  "title": "Card Grid",
+  "title": "Hello itd",
   "description": "A configurable card grid widget demonstrating dynamic layout and styling options",
-  "category": "Demo",
-  "imageSrc": "thumbnail.png",
+  "category": "itd-gitDemo",
   "configuration": {
     "properties": [
       {
@@ -104,6 +103,6 @@
   },
   "source": {
     "path": "dist",
-    "entry": "content.html"
+    "entry": "index.html"
   }
 }
